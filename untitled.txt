@@ -1,0 +1,18 @@
+NPC
+http://marioslapseofreason.blogspot.ca/2010/11/np-and-language-decidability.html
+
+SAT, HAMILTON
+https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/sat.pdf
+
+CLIQUE
+http://www.eecs.berkeley.edu/~isabelle/cs302/ps7-solutions.pdf
+
+SET-PARTITION
+https://web.njit.edu/~marvin/cs341/hw/hwsoln13.pdf
+
+HAMILTON
+http://www.cs.mun.ca/~kol/courses/6743-f07/lec10.pdf
+http://www.csc.kth.se/utbildning/kth/kurser/DD2354/algokomp10/Ovningar/Exercise6_Sol.pdf
+
+Approximation
+https://courses.engr.illinois.edu/cs498dl1/sp2015/notes/31-approx.pdf
